@@ -57,6 +57,11 @@
             <mxPoint x="1365" y="2151" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="K64KkESOAolKnABilGlZ-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oPstrzkBWRwHzrpRvFm4-21" target="K64KkESOAolKnABilGlZ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1430" y="2029" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oPstrzkBWRwHzrpRvFm4-21" value="Police" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1485" y="2161" width="120" height="80" as="geometry" />
         </mxCell>
@@ -187,6 +192,9 @@
         </mxCell>
         <mxCell id="K64KkESOAolKnABilGlZ-11" value="Hypatia Masters" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1732" y="1855" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K64KkESOAolKnABilGlZ-13" value="&lt;div&gt;Dr.Mordecai Lemmings&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="1989" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
